@@ -1,0 +1,31 @@
+{
+	"manifest_version": 2,
+	"name": "FaZakkir - فَذَكِّــرْ",
+	"short_name": "FaZakkir",
+
+	"description" : "FaZakkir is a simple extension that replace every new tab with a random verse from the Holy Quran whith its interpretation",
+	"version": "1.0.0",
+	"author": "Youness Boualam",
+	"offline_enabled": true,
+
+	"icons": {
+		"16": "core/assets/icons/fazakkir@16.png",		"32": "core/assets/icons/fazakkir@32.png",
+		"64": "core/assets/icons/fazakkir@64.png",		"128": "core/assets/icons/fazakkir@128.png"
+	},
+
+	"content_security_policy": "script-src 'self'; object-src 'self'",
+	"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"background": {
+		"scripts": ["core/scripts/fazakkir.background.js"],
+		"persistent": false
+	},
+
+	"browser_action": {
+		"default_title": "FaZakkir - فَذَكِّــرْ"
+	},
+
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
