@@ -15,11 +15,11 @@ developed with [Svelte JS](https://svelte.dev)
 * Add support to many translations of the Quran in many languages
 
 #### Release
-For [Google Chrome](https://chrome.google.com/webstore/detail/fazakkir-فَذَكِّــرْ/ffekjmkkgbpkeplldmbcmfhclffjkofo?hl=fr) and [Ms Edge](https://chrome.google.com/webstore/detail/fazakkir-فَذَكِّــرْ/ffekjmkkgbpkeplldmbcmfhclffjkofo?hl=fr)
+For [Google Chrome](https://chrome.google.com/webstore/detail/fazakkir-فَذَكِّــرْ/ffekjmkkgbpkeplldmbcmfhclffjkofo?hl=fr) and [Ms Edge](https://chrome.google.com/webstore/detail/fazakkir-فَذَكِّــرْ/ffekjmkkgbpkeplldmbcmfhclffjkofo?hl=fr)  
 For [Mozilla FireFox](https://addons.mozilla.org/fr/firefox/addon/fazakkir/)
 
 ## Installation
-*fazakkir requires [Node.js](https://nodejs.org/) to run*.
+*fazakkir requires [Node.js](https://nodejs.org/) to run*.   
 Install the dependencies and devDependencies and start the app.
 
 ```sh
