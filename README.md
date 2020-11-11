@@ -19,7 +19,7 @@ For [Google Chrome](https://chrome.google.com/webstore/detail/fazakkir-فَذَ�
 For [Mozilla FireFox](https://addons.mozilla.org/fr/firefox/addon/fazakkir/)
 
 ## Installation
-*fazakkir requires [Node.js](https://nodejs.org/) to run.*
+*fazakkir requires [Node.js](https://nodejs.org/) to run*.
 Install the dependencies and devDependencies and start the app.
 
 ```sh
